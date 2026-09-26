@@ -1,0 +1,1440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|c:\\users\\dell\\source\\repos\\2ndsemproject\\data_access_layer\\crimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\crimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucwelcomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucwelcomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\investigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\investigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\crimetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\crimetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmreportcrime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmreportcrime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\crime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\crime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogdiary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogdiary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\victim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\victim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\evidencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\evidencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\investigatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\investigatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\criminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\criminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmainshell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmainshell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmainshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmainshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucwelcomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucwelcomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucinvestigatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucinvestigatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucinvestigatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucinvestigatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:ucadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmdeactivateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmdeactivateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmdeactivateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmdeactivateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmworkloadreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmworkloadreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmworkloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmworkloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmassigncase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmassigncase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmworkloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmworkloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucinvestigators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucinvestigators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmassigncase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmassigncase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmassigncase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmassigncase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucinvestigators.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucinvestigators.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewofficers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewofficers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewofficers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewofficers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewofficers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewofficers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddinvestigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddinvestigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddinvestigator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddinvestigator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewvictims.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewvictims.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewvictims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewvictims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewvictims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewvictims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\victimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\victimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccrimes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccrimes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccrimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccrimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmdeactivateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmdeactivateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmclosecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmclosecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmostwanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmostwanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmregistercriminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmregistercriminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmreportcrime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmreportcrime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewconvictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewconvictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewconvictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewconvictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmclosecase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmclosecase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmclosecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmclosecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewevidence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewevidence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\progressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\progressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogevidence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogevidence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewdiary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewdiary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmlogdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmlogdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmostwanted.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmostwanted.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmostwanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmostwanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\data_access_layer\\criminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:data_access_layer\\criminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccriminals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccriminals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccriminals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccriminals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccriminals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccriminals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddconviction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddconviction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmviewconvictions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmviewconvictions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddconviction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddconviction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddconviction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddconviction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmregistercriminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmregistercriminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmregistercriminal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmregistercriminal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucmycases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucmycases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucmycases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucmycases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucmycases.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucmycases.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmaddinvestigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmaddinvestigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\frmmainshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\frmmainshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\ucinvestigators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\ucinvestigators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\winforms_ui_layer\\uccrimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:winforms_ui_layer\\uccrimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\casestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\casestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|C:\\Users\\DELL\\source\\repos\\2ndSemProject\\core_oop_layer\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01980FA-CC58-4620-A9B0-F6783176C9A6}|2ndSemProject.csproj|solutionrelative:core_oop_layer\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMainShell.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMainShell.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMainShell.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAkwPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:58:22.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogDiary.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogDiary.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogDiary.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:46:20.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\CrimeRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\CrimeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\CrimeRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\CrimeRepository.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAQwPAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:35:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crime.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Crime.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\Crime.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Crime.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\Crime.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T10:33:23.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReportCrime.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmReportCrime.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmReportCrime.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmReportCrime.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmReportCrime.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:08:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrimeType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\CrimeType.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\CrimeType.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\CrimeType.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\CrimeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:43:47.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Investigator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Investigator.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\Investigator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Investigator.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\Investigator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T10:28:39.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucWelcomeHub.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucWelcomeHub.cs",
+              "RelativeDocumentMoniker": "ucWelcomeHub.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucWelcomeHub.cs",
+              "RelativeToolTip": "ucWelcomeHub.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwHQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:12:02.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Victim.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Victim.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\Victim.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Victim.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\Victim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T10:31:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EvidenceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\EvidenceRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\EvidenceRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\EvidenceRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\EvidenceRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:11:16.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\DatabaseHelper.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:23:08.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvestigatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\InvestigatorRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\InvestigatorRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\InvestigatorRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\InvestigatorRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:39:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Criminal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Criminal.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\Criminal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Criminal.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\Criminal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:59:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Person.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\Person.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\Person.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:14:52.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ucAdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucAdminDashboard.cs",
+              "RelativeDocumentMoniker": "ucAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucAdminDashboard.cs [Design]",
+              "RelativeToolTip": "ucAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:35:30.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMainShell.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMainShell.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMainShell.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:08:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ucWelcomeHub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucWelcomeHub.cs",
+              "RelativeDocumentMoniker": "ucWelcomeHub.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucWelcomeHub.cs [Design]",
+              "RelativeToolTip": "ucWelcomeHub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:12:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucInvestigatorDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucInvestigatorDashboard.cs",
+              "RelativeDocumentMoniker": "ucInvestigatorDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucInvestigatorDashboard.cs [Design]",
+              "RelativeToolTip": "ucInvestigatorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:55:25.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucInvestigatorDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucInvestigatorDashboard.cs",
+              "RelativeDocumentMoniker": "ucInvestigatorDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucInvestigatorDashboard.cs",
+              "RelativeToolTip": "ucInvestigatorDashboard.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAewHEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:55:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAssignCase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAssignCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAssignCase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:18:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ucInvestigators.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucInvestigators.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucInvestigators.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:22:34.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ucAdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucAdminDashboard.cs",
+              "RelativeDocumentMoniker": "ucAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\ucAdminDashboard.cs",
+              "RelativeToolTip": "ucAdminDashboard.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:36:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDeactivateUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAuwA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:58:07.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmDeactivateUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmDeactivateUser.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmDeactivateUser.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwKYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:58:22.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:45:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.Designer.cs",
+              "RelativeToolTip": "frmLogin.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAhwKIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:54:59.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmWorkloadReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmWorkloadReport.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmWorkloadReport.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:27:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmWorkloadReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmWorkloadReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:26:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmWorkloadReport.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmWorkloadReport.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv4IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:26:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAssignCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAssignCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAssignCase.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:18:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmViewOfficers.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewOfficers.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewOfficers.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:52:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAssignCase.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAssignCase.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAssignCase.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAssignCase.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:19:13.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmViewOfficers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewOfficers.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewOfficers.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:52:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ucInvestigators.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucInvestigators.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucInvestigators.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv5EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:53:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmViewOfficers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewOfficers.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewOfficers.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewOfficers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:52:16.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VictimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\VictimRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\VictimRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\VictimRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\VictimRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:39:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmViewVictims.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewVictims.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewVictims.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:39:47.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAddInvestigator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T17:18:11.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmAddInvestigator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddInvestigator.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddInvestigator.Designer.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T17:18:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\AuthRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\AuthRepository.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:48:02.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmViewVictims.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewVictims.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewVictims.Designer.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAIwBwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:40:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmViewVictims.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewVictims.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewVictims.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewVictims.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAmwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:39:48.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmLogEvidence.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogEvidence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogEvidence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:11:38.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ucCrimes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCrimes.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCrimes.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:39:35.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ucCrimes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCrimes.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCrimes.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwKgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:17:49.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmMostWanted.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMostWanted.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMostWanted.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:21:20.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmLogDiary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogDiary.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogDiary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:45:47.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmDeactivateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmDeactivateUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmDeactivateUser.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmDeactivateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:58:03.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmCloseCase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmCloseCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmCloseCase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:28:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmRegisterCriminal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmRegisterCriminal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:07:12.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmReportCrime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmReportCrime.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmReportCrime.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmReportCrime.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmReportCrime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:08:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmUpdateStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmUpdateStatus.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmUpdateStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:08:39.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmViewConvictions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewConvictions.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewConvictions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:42:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmViewConvictions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewConvictions.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewConvictions.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:42:22.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmViewDiary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewDiary.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewDiary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:59:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmViewEvidence.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewEvidence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewEvidence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:22:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmCloseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmCloseCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmCloseCase.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:28:45.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmCloseCase.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmCloseCase.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmCloseCase.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmCloseCase.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:29:01.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmViewEvidence.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewEvidence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewEvidence.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:22:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmViewEvidence.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewEvidence.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewEvidence.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewEvidence.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:22:29.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmLogEvidence.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogEvidence.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogEvidence.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:12:02.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProgressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\ProgressRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\ProgressRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\ProgressRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\ProgressRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:45:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmLogEvidence.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogEvidence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogEvidence.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogEvidence.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:11:40.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmViewDiary.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewDiary.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewDiary.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:59:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmViewDiary.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewDiary.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewDiary.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewDiary.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:00:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmLogDiary.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmLogDiary.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmLogDiary.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmLogDiary.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:45:49.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ucCriminals.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCriminals.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCriminals.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIAwwHQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:00:06.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmMostWanted.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMostWanted.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMostWanted.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:21:21.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CriminalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\CriminalRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\CriminalRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Data_Access_Layer\\CriminalRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\CriminalRepository.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:30:55.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmMostWanted.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMostWanted.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMostWanted.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMostWanted.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:21:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ucCriminals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCriminals.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCriminals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:52:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ucCriminals.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCriminals.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCriminals.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCriminals.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowG8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:52:22.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmViewConvictions.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmViewConvictions.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmViewConvictions.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmViewConvictions.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwG8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:43:29.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmAddConviction.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddConviction.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddConviction.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:49:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmAddConviction.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddConviction.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddConviction.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:49:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmAddConviction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddConviction.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddConviction.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddConviction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:49:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmUpdateStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmUpdateStatus.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:08:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmRegisterCriminal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmRegisterCriminal.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmRegisterCriminal.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:07:44.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmRegisterCriminal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmRegisterCriminal.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:07:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ucMyCases.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucMyCases.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucMyCases.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:42:58.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:20:18.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ucMyCases.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucMyCases.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.Designer.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucMyCases.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ucMyCases.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucMyCases.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucMyCases.cs",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucMyCases.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAIwLQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:00.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmMainShell.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmMainShell.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmMainShell.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmMainShell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:03:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmAddInvestigator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\frmAddInvestigator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\frmAddInvestigator.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\frmAddInvestigator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T17:18:09.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ucInvestigators.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucInvestigators.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucInvestigators.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucInvestigators.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:22:33.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ucCrimes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.cs",
+              "RelativeDocumentMoniker": "WinForms_UI_Layer\\ucCrimes.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\WinForms_UI_Layer\\ucCrimes.cs [Design]",
+              "RelativeToolTip": "WinForms_UI_Layer\\ucCrimes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:17:47.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\ISearchable.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:49:55.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:55:20.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CaseStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\CaseStatus.cs",
+              "RelativeDocumentMoniker": "Core_OOP_Layer\\CaseStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\2ndSemProject\\Core_OOP_Layer\\CaseStatus.cs",
+              "RelativeToolTip": "Core_OOP_Layer\\CaseStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:44:22.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

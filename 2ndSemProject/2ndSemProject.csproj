@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E01980FA-CC58-4620-A9B0-F6783176C9A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_2ndSemProject</RootNamespace>
+    <AssemblyName>2ndSemProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core_OOP_Layer\CaseStatus.cs" />
+    <Compile Include="Core_OOP_Layer\Crime.cs" />
+    <Compile Include="Core_OOP_Layer\CrimeType.cs" />
+    <Compile Include="Core_OOP_Layer\Criminal.cs" />
+    <Compile Include="Core_OOP_Layer\Investigator.cs" />
+    <Compile Include="Core_OOP_Layer\ISearchable.cs" />
+    <Compile Include="Core_OOP_Layer\Person.cs" />
+    <Compile Include="Core_OOP_Layer\Victim.cs" />
+    <Compile Include="Data_Access_Layer\AuthRepository.cs" />
+    <Compile Include="Data_Access_Layer\CrimeRepository.cs" />
+    <Compile Include="Data_Access_Layer\CriminalRepository.cs" />
+    <Compile Include="Data_Access_Layer\DatabaseHelper.cs" />
+    <Compile Include="Data_Access_Layer\EvidenceRepository.cs" />
+    <Compile Include="Data_Access_Layer\InvestigatorRepository.cs" />
+    <Compile Include="Data_Access_Layer\ProgressRepository.cs" />
+    <Compile Include="Data_Access_Layer\VictimRepository.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucAdminDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAdminDashboard.Designer.cs">
+      <DependentUpon>ucAdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucInvestigatorDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucInvestigatorDashboard.Designer.cs">
+      <DependentUpon>ucInvestigatorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucWelcomeHub.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucWelcomeHub.Designer.cs">
+      <DependentUpon>ucWelcomeHub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAddConviction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAddConviction.Designer.cs">
+      <DependentUpon>frmAddConviction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAddInvestigator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAddInvestigator.Designer.cs">
+      <DependentUpon>frmAddInvestigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAssignCase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmAssignCase.Designer.cs">
+      <DependentUpon>frmAssignCase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmCloseCase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmCloseCase.Designer.cs">
+      <DependentUpon>frmCloseCase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmDeactivateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmDeactivateUser.Designer.cs">
+      <DependentUpon>frmDeactivateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmLogDiary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmLogDiary.Designer.cs">
+      <DependentUpon>frmLogDiary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmLogEvidence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmLogEvidence.Designer.cs">
+      <DependentUpon>frmLogEvidence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmMainShell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmMainShell.Designer.cs">
+      <DependentUpon>frmMainShell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmMostWanted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmMostWanted.Designer.cs">
+      <DependentUpon>frmMostWanted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmRegisterCriminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmRegisterCriminal.Designer.cs">
+      <DependentUpon>frmRegisterCriminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmReportCrime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmReportCrime.Designer.cs">
+      <DependentUpon>frmReportCrime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmUpdateStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmUpdateStatus.Designer.cs">
+      <DependentUpon>frmUpdateStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewConvictions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewConvictions.Designer.cs">
+      <DependentUpon>frmViewConvictions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewDiary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewDiary.Designer.cs">
+      <DependentUpon>frmViewDiary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewEvidence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewEvidence.Designer.cs">
+      <DependentUpon>frmViewEvidence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewOfficers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewOfficers.Designer.cs">
+      <DependentUpon>frmViewOfficers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewVictims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmViewVictims.Designer.cs">
+      <DependentUpon>frmViewVictims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmWorkloadReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\frmWorkloadReport.Designer.cs">
+      <DependentUpon>frmWorkloadReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucCrimes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucCrimes.Designer.cs">
+      <DependentUpon>ucCrimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucCriminals.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucCriminals.Designer.cs">
+      <DependentUpon>ucCriminals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucInvestigators.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucInvestigators.Designer.cs">
+      <DependentUpon>ucInvestigators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucMyCases.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WinForms_UI_Layer\ucMyCases.Designer.cs">
+      <DependentUpon>ucMyCases.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ucAdminDashboard.resx">
+      <DependentUpon>ucAdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucInvestigatorDashboard.resx">
+      <DependentUpon>ucInvestigatorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucWelcomeHub.resx">
+      <DependentUpon>ucWelcomeHub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmAddConviction.resx">
+      <DependentUpon>frmAddConviction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmAddInvestigator.resx">
+      <DependentUpon>frmAddInvestigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmAssignCase.resx">
+      <DependentUpon>frmAssignCase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmCloseCase.resx">
+      <DependentUpon>frmCloseCase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmDeactivateUser.resx">
+      <DependentUpon>frmDeactivateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmLogDiary.resx">
+      <DependentUpon>frmLogDiary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmLogEvidence.resx">
+      <DependentUpon>frmLogEvidence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmMainShell.resx">
+      <DependentUpon>frmMainShell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmMostWanted.resx">
+      <DependentUpon>frmMostWanted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmRegisterCriminal.resx">
+      <DependentUpon>frmRegisterCriminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmReportCrime.resx">
+      <DependentUpon>frmReportCrime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmUpdateStatus.resx">
+      <DependentUpon>frmUpdateStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmViewConvictions.resx">
+      <DependentUpon>frmViewConvictions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmViewDiary.resx">
+      <DependentUpon>frmViewDiary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmViewEvidence.resx">
+      <DependentUpon>frmViewEvidence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmViewOfficers.resx">
+      <DependentUpon>frmViewOfficers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmViewVictims.resx">
+      <DependentUpon>frmViewVictims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\frmWorkloadReport.resx">
+      <DependentUpon>frmWorkloadReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\ucCrimes.resx">
+      <DependentUpon>ucCrimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\ucCriminals.resx">
+      <DependentUpon>ucCriminals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\ucInvestigators.resx">
+      <DependentUpon>ucInvestigators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms_UI_Layer\ucMyCases.resx">
+      <DependentUpon>ucMyCases.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Console_UI_Layer\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
