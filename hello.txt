@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 "Hello Crime Tracker" 
 This is my first GitHub lab file.
 It is used to test Git commands.
+=======
+"Hello Crime Tracker" 
+This is my first GitHub lab file.
+It is used to test Git commands.
+>>>>>>> 249145ffb0d1535ef6d8763cac3853f94b99e99f
