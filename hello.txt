@@ -1,0 +1,3 @@
+"Hello Crime Tracker" 
+This is my first GitHub lab file.
+It is used to test Git commands.
