@@ -24,6 +24,4 @@ It supports efficient investigation by organizing evidence, suspects, and case p
    code .
 3. Run the Python scripts to manage records.
 
-## Contact
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+
