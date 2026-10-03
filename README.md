@@ -22,6 +22,5 @@ It supports efficient investigation by organizing evidence, suspects, and case p
    git clone https://github.com/yourusername/crime-record-tracker.git
 2. Open in VS Code:
    code .
-3. Run the Python scripts to manage records.
 
 
