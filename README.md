@@ -13,8 +13,8 @@ It supports efficient investigation by organizing evidence, suspects, and case p
 ## Skills & Technologies
 | Category    | Tools/Technologies |
 |-------------|--------------------|
-| Language    | Python             |
-| Database    | SQLite             |
+| Language    | C#            |
+| Database    | SQLServer         |
 | Tools       | Git, GitHub, VS Code |
 
 ## How to Run
